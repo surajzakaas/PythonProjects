@@ -1,4 +1,8 @@
 this sis a a ne w ifle
+<<<<<<< HEAD
 this is awesome
 asdasf
 fdfsd
+=======
+dasdas
+>>>>>>> 0c7a8d81e5ceb64976667501127481db69edfbda
